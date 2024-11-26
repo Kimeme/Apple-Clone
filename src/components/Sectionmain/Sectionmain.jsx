@@ -13,6 +13,7 @@ function Sectionmain() {
                         <ul>
                             <li><a href="">Learn more</a></li>
                             <li><a href="">Buy</a></li>
+                            <li><a href="">Yemisrach</a></li>
                         </ul>
                     </div>
                     <div className="main-image-wrapper">
